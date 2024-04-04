@@ -1,0 +1,12 @@
+.post{
+    margin: 10px 475px;
+}
+.tag{
+    margin: 0px 3px;
+}
+.deleteIcon:hover{
+    cursor: pointer;
+}
+.reactions{
+    margin-top: 6px;
+}

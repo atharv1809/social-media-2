@@ -1,0 +1,16 @@
+.app-container{
+    display: flex;
+}
+.sidebar{
+    min-height: 100vh;
+}
+.content{
+    width: 100%;
+    padding: 0px;
+}
+.body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
